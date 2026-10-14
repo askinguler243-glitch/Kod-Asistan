@@ -11,4 +11,16 @@ olacak bir dijital asistan tasarlamak
 ## projenin kapsamı:
 * girilen iki sayı toplama, çıkarma, çarpma ve bölme işlemi yapabilmek
     * BAŞLA
-    * 
+    * "1.sayı:" gir,a
+    * "2.sayı:" gir,b
+    * toplam-a+b
+    * fark=a-b
+    * carpim=a*b
+    * bolum=a/b
+    * Yaz "a+b-",toplam
+    * yaz "a-b",fark
+    * yaz "a*b",carpim
+    * yaz "a/b",bolum
+    * BİTTİ
+## Kaynakça:
+* MEB Bilişim teknolojileri alanı 9.sınıf programlama temelleri ders kitabı
