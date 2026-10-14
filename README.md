@@ -1,5 +1,5 @@
 # Kod-Asistan
-Proje Yazarı : Akın Güler
+Proje Yazarı : Aşkın Güler
 # Projenin Adı : Kod-Asistan v0.1
 ## Projenin amacı : Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı
 olacak bir dijital asistan tasarlamak
