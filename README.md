@@ -24,5 +24,5 @@ olacak bir dijital asistan tasarlamak
     * BİTTİ
 ## Kaynakça:
 * MEB Bilişim teknolojileri alanı 9.sınıf programlama temelleri ders kitabı
-##AKIŞ ŞEMASI
+* ## AKIŞ ŞEMASI
 <img width="418" height="385" alt="Belge2 - Word (Ürün Etkinleştirilemedi) 14 10 2026 11_39_21" src="https://github.com/user-attachments/assets/44b8ae35-1130-42e5-b625-30e98c41c049" />
